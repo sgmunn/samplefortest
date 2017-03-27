@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EB9A9B33-BF1E-4D9D-9BCE-106E97FCD20F}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bug53886 Status">
+    <Files>
+      <File FileName="Bug53886/Program.cs" Line="11" Column="3" />
+      <File FileName="Bug53886 Status" />
+      <File FileName="Bug53886 Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bug53886 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
